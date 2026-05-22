@@ -13,7 +13,7 @@ const notoSansThai = Noto_Sans_Thai({
 });
 
 export const metadata: Metadata = {
-  title: "Orange Web Studio | รับทำเว็บไซต์ขายของออนไลน์",
+  title: "Sakon Custom Web | รับทำเว็บไซต์ขายของออนไลน์",
   description:
     "บริการรับทำเว็บไซต์ขายของออนไลน์ รองรับมือถือ แท็บเล็ต คอมพิวเตอร์ และเชื่อมต่อ LINE OA."
 };

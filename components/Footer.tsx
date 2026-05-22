@@ -10,7 +10,7 @@ export default function Footer() {
             <Code2 className="h-5 w-5" aria-hidden="true" />
           </span>
           <div>
-            <p className="font-bold text-gray-950">Orange Web Studio</p>
+            <p className="font-bold text-gray-950">Sakon Custom Web</p>
             <p className="text-sm text-gray-500">รับทำเว็บไซต์ขายของออนไลน์</p>
           </div>
         </div>
@@ -52,7 +52,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-gray-100 px-4 py-4 text-center text-sm text-gray-500">
-        © 2026 Orange Web Studio. All rights reserved.
+        © 2026 Sakon Custom Web. All rights reserved.
       </div>
     </footer>
   );
