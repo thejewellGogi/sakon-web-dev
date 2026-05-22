@@ -28,11 +28,11 @@ export default function ContactSection() {
             <div className="mt-8 space-y-4 text-sm text-gray-200">
               <div className="flex gap-3">
                 <Phone className="mt-0.5 h-5 w-5 flex-none text-brand-400" aria-hidden="true" />
-                <span>02-123-4567</span>
+                <span>080-744-8834 โกกิ</span>
               </div>
               <div className="flex gap-3">
                 <Mail className="mt-0.5 h-5 w-5 flex-none text-brand-400" aria-hidden="true" />
-                <span>hello@orangewebstudio.co</span>
+                <span>kit.sinmahut@gmail.com</span>
               </div>
               <div className="flex gap-3">
                 <MapPin className="mt-0.5 h-5 w-5 flex-none text-brand-400" aria-hidden="true" />
